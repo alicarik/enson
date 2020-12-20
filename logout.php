@@ -4,7 +4,7 @@
 	session_start();
 	session_destroy();
 
-	echo json_encode("success");
+	echo json_encode("success");........
 
 
 ?>
