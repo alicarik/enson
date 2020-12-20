@@ -1,0 +1,156 @@
+
+
+
+#main-page
+{
+	width: 80%;
+	height: 1000px;
+	background-color: lightgrey;
+	margin: auto;
+}
+
+
+#top-area
+{
+	width: 70%;
+	height: 200px;
+	background-color: red;
+	margin: auto;
+}
+
+
+#logo-frame
+{
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+
+#top-banner
+{
+	width: 530px;
+	height: 100px;
+	background-color: blue;
+	float: left;
+}
+
+.box
+{
+	width: 263px;
+    height: 89px;
+    background-color: yellow;
+    float: right;
+}
+
+#main-animation
+{
+	width: 800px;
+	height: 500px;
+	background-color: green;
+	margin-left: 100px;
+	margin-top: 50px;
+}
+
+#main-picture-container
+{
+	width: 700px;
+	height: 430px;
+	background-color: brown;
+}
+
+.main-picture
+{
+	width: 700px;
+	height: 430px;
+	background-color: blue;
+}
+
+#main-button-container
+{
+	width: 400px;
+	height: 55px;
+	background-color: grey;
+}
+
+.main-button
+{
+    height: 28px;
+    background-color: lightgrey;
+    float: left;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 32px;
+    padding: 13px;
+}
+
+.main-button:hover
+{
+	cursor: pointer;
+	background-color: orange;
+}
+
+img
+{
+    width: 100%; /* or any custom size */
+    height: 100%; 
+    object-fit: contain;
+}
+
+
+#page-container
+{
+	width: 600px;
+	height: 500px;
+	background-color: green;
+	margin: auto;
+	margin-top: 50px;
+}
+
+#page-title
+{
+	width: 500px;
+	height: 50px;
+	background-color: yellow;
+	color: red;
+	font-size: 22px;
+}
+
+
+#page-text
+{
+	width: 400px;
+	background-color: pink;
+}
+
+#page-photo
+{
+	width: 250px;
+	height: 250px;
+}
+
+#page-comment-container
+{
+	width: 450px;
+	height: 200px;
+	background-color: blue;
+	margin: auto;
+	padding-top: 10px;
+}
+
+#page-comment
+{
+	width: 300px;
+	height: 50px;
+	background-color: darkgrey;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#page-comment-entry-container
+{
+	width: 400px;
+	height: 200px;
+	background-color: red;
+	margin: auto;
+}
